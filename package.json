@@ -12,6 +12,6 @@
     "discord.js": "^13.0.1"
   }
   "engines":{
-	"node":"16.6.2"
+	"node":"16.x"
   }
 }
