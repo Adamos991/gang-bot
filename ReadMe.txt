@@ -1,1 +1,1 @@
-Basic discord bot for preventing the posting of a specific meme. This bot could definitely be inplemented better now, this was just a quick job from a few years ago.
+Basic discord bot for preventing the posting of a specific meme. This bot could definitely be inplemented better now, this was just a quick job from a few years ago. Login token is expired so new one is needed to run the bot.
